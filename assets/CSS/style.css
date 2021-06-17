@@ -1,0 +1,49 @@
+body{
+
+    font-family: 'Roboto', sans-serif;
+
+    overflow-x: hidden;
+}
+
+h5{
+    font-size: 1.3em;
+    font-weight: 300;
+}
+
+
+::placeholder{
+
+font-weight: 300;
+}
+
+footer img{
+height: 5vh;}
+
+.bajada-titulo{
+
+padding-top: .3em;
+}
+
+.precio-verde{
+
+    font-size: 1.3em;
+}
+.direccion{
+
+margin-top: -1em;}
+
+.bajada-titulo-6{
+
+    padding-top: 1.3em;
+}
+
+
+.navbar-brand img{
+
+    width: 6rem;
+}
+
+.cards{
+padding-top: 3em;
+
+}
